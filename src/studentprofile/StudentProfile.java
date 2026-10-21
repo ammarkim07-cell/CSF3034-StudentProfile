@@ -19,6 +19,7 @@ public class StudentProfile {
         System.out.println("Programme: Bachelor of Computer Science");
         System.out.println("Semester: Semester 1");
         System.out.println("favourite Language: Java");
+        System.out.println("Grade: Excelent");
     }
     
 }
